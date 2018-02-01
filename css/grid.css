@@ -1,0 +1,17 @@
+@media (min-width: 768px) and  (max-width: 1024px){
+    .contacto-2{
+        margin-top: -50px;
+    }
+}
+
+@media (min-width: 200px) and  (max-width: 767px){
+    .contacto-2{
+        margin-top: 5px;
+    }
+    .m-centrar{
+        margin: auto;
+    }
+    .site-name{
+    font-size: 23px;
+}
+}
